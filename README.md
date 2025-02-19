@@ -1,4 +1,4 @@
-roadmapsh-Basic-Dockerfile -> https://roadmap.sh/projects/basic-dockerfile
+project url https://roadmap.sh/projects/basic-dockerfile
 
 Requirements \
 The Dockerfile should be named Dockerfile.\
