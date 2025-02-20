@@ -4,7 +4,7 @@ The goal of this project is to get familiar with systemd; creating and enabling 
 
 Steps to run the project:
 
-01 -> git clone https://github.com/pedroscalon/roadmapsh_devops\
+01 -> git clone https://github.com/pedroscalon/roadmapsh_devops \
 02 -> cd roadmapsh_devops/dummy-systemd-service && mv dummy.sh /usr/local/bin/ && chmod +x /usr/local/bin/dummy.sh\
 03 -> touch /var/log/dummy-service.log && chmod 644 /var/log/dummy-service.log\
 04 -> systemctl daemon-reload && systemctl enable dummy && systemctl start dummy\
