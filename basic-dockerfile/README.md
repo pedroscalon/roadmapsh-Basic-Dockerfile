@@ -9,7 +9,7 @@ The Dockerfile should contain a single instruction to print â€œHello, Captain!â€
 How to run the project: 
 
 01:\
-git clone https://github.com/pedroscalon/roadmapsh-Basic-Dockerfile.git
+git clone https://github.com/pedroscalon/roadmapsh_devops/basic-dockerfile.git
 
 02:\
 cd roadmapsh-Basic-Dockerfile
